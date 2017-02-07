@@ -13,14 +13,17 @@ Similarly, you can create a class to represent the functionality of a drone.
 
 The idea is that the class replicates all of the real functionality and properties of these actual objects.
 
+## ES6 Classes
+- [ES6 Classes](https://github.com/C4Q/es6-classes)
 
-
-## Challenge
-Create an 'autonomous-car' class. It should extend the robot class. In addition to the Robot class properties and methods, it should also have:
+**CHALLENGE:** Create an 'autonomous-car' class. It should extend the robot class. In addition to the Robot class properties and methods, it should also have:
 
 - a `fuel` property that tracks how much fuel the car has
 - a `drive` method that logs out that the car is driving, and updates its current location
 - a `park` method that logs out the name of the car and that it is now parked
+
+## React + ES6 Classes
+- [React ES6 Classes Demo](https://github.com/C4Q/es6-react)
 
 ## Resources
 - [ES6 Classes](https://googlechrome.github.io/samples/classes-es6/)
